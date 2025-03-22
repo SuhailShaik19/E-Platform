@@ -17,7 +17,7 @@ This E-commerce Web application is built using the below technologies:
 - Backend: Node.js & Express.js 
 - Database: MySQL 
 ## Installation & Setup guide 
-
+```sh
 - To install version of module use below command:
    npm install  # Install dependencies
 - To run the project use the below command:
