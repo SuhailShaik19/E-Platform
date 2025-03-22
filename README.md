@@ -19,9 +19,9 @@ This E-commerce Web application is built using the below technologies:
 ## Installation & Setup guide 
 
 - To install version of module use below command:
-  >.npm install  # Install dependencies
+  >npm install  # Install dependencies
 - To run the project use the below command:
-  >.npm start    # Start the project
+  >npm start    # Start the project
 
 
 
