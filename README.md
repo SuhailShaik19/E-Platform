@@ -1,22 +1,27 @@
-# E-Commerce Application :shopping_trolley:
-## Overview
-This is a full-stack E-Commerce web application where users can browse products, add them to the cart, and place orders.
+# E-Commerce Application :Easy To Shop:
+## About The Application
+
+This is an E-commerce Web application in which users can able to search for specific  products which they want to buy and users can able to see the overview of products like cost,reviews and able to add to cart.If users like the products, they can able to place the order from the cart.Users have options to cancel the order and have have multiple options to make payments.
+This application main theme is to provide a service in which the products delivered to the customers house which helps to save thier time.
 ## Features
-- :house: Homepage with product listings
-- :mag: Search bar to find products
-- :shopping_bags: Add to cart and Wishlist
-- :credit_card: Checkout feature
-- :package: My Orders and User Profile pages
+
+- Home_Page which displays all products and you can explore all products by scrolling down.
+- Search bar to find a speific product you wish
+- Add cart in which products can be added to wishlist,so users can easily place order.
+- Checkout feature -Customers go through o complete the purchase from the website.
+- My Orders-It displays all the products which you placed order and it also displays already delivered orders.
+- User profile- It displays customers personal information like Email,phone number and customer orders,account setting,Payments like stuff is there.
 ## Tech Stack
-- Frontend: ReactJS :atom_symbol:
-- Backend: Node.js & Express.js :rocket:
-- Database: MySQL :file_cabinet:
-## Installation & Setup
-```sh
-npm install  # Install dependencies
-npm start    # Start the development server
+This E-commerce Web application is built using the below technologies:
+- Frontend: ReactJS 
+- Backend: Node.js & Express.js 
+- Database: MySQL 
+## Installation & Setup guide 
 
-
+- To install version of module use below command:
+  >npm install  # Install dependencies
+- To run the project use the below command:
+  >npm start    # Start the project
 
 
 
