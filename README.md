@@ -5,6 +5,8 @@ This is an E-commerce Web application in which users can able to search for spec
 This application main theme is to provide a service in which the products delivered to the customers house which helps to save thier time.
 ## Features
 
+
+
 - Home_Page which displays all products and you can explore all products by scrolling down.
 - Search bar to find a speific product you wish
 - Add cart in which products can be added to wishlist,so users can easily place order.
@@ -22,7 +24,5 @@ This E-commerce Web application is built using the below technologies:
   >npm install  # Install dependencies
 - To run the project use the below command:
   >npm start    # Start the project
-
-
 
 
